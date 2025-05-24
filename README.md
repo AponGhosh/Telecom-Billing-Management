@@ -7,6 +7,7 @@ A C-based billing management system for telecom operators, featuring dual interf
 This project provides a console-based solution for managing telecom billing operations, allowing:
 - **Customers** to view/pay bills and manage accounts
 - **Agents** to perform CRUD operations on customer records
+
 Data is persisted using file handling in C for reliability.
 
 ## Features
