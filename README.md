@@ -38,7 +38,6 @@ Data is persisted using file handling in C for reliability.
 - **Development**:
   - Code::Blocks 20.03
 
-## Installation
-1. Clone the repository:
+## Clone the repository:
    ```bash
    git clone https://github.com/AponGhosh/Telecom-Billing-Management.git
