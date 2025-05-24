@@ -4,7 +4,7 @@ The project is “Telecom Billing Management” which can be easily accessed by 
 Features:
 
 The most special feature of our project is that it can be used by both the customer and the agent.
-For customers:
+For customers: 
 i. Can create an account
 ii. View amounts: see the due amounts
 iii. View payment records: see previous payments history
